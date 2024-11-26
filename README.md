@@ -16,7 +16,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/school-fees-management-system.git  
+git clone (https://github.com/PuspaSubedi/School-Management-System/)
 Import the SQL file into your MySQL database.
 Configure the database settings in the config.php file.
 Start the project on your local server using tools like XAMPP or WAMP.
@@ -32,8 +32,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 License
 This project is open-source and available under the MIT License.
 
-Contact
-For any questions or feedback, please contact:
-Name: Your Name
-Email: your-email@example.com
-GitHub: Your GitHub Profile
